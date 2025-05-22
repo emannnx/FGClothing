@@ -18,6 +18,15 @@ import image17 from '../assets/image17.jpg';
 import image18 from '../assets/image18.jpg';
 import image19 from '../assets/image19.jpg';
 import image20 from '../assets/image20.jpg';
+import image21 from '../assets/image21.jpg';
+import image22 from '../assets/image22.jpg';
+import image23 from '../assets/image23.jpg';
+import image24 from '../assets/image24.jpg';
+import image25 from '../assets/image25.jpg';
+import image26 from '../assets/image26.jpg';
+import image27 from '../assets/image27.jpg';
+import image28 from '../assets/image28.jpg';
+import image29 from '../assets/image29.jpg';
 
 
 
@@ -148,5 +157,59 @@ export const cloth_data : cloth[] = [
       title: "Accessories",
       description: "Complete your look",
       image: image20
+    },
+    {
+      id: 21,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image21
+    },
+    {
+      id: 22,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image22
+    },
+    {
+      id: 23,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image23
+    },
+    {
+      id: 24,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image24
+    },
+    {
+      id: 25,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image25
+    },
+    {
+      id: 26,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image26
+    },
+    {
+      id: 27,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image27
+    },
+    {
+      id: 28,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image28
+    },
+    {
+      id: 29,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image29
     }
   ];

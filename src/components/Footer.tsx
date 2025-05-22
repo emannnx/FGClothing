@@ -44,7 +44,9 @@ const Footer = () => {
               fasinugbenga67@gmail.com
             </a>
             <p className="text-gray-400 hover:text-white text-sm">+234-81-7761-5823</p>
-             <p><span className="hover:text-gold">28 King George v Road,Onikan,Lagos., Lagos, Nigeria 101231</span></p>
+            <a href="https://maps.app.goo.gl/thJ3mE3LpoMNps7JA">
+            https://maps.app.goo.gl/thJ3mE3LpoMNps7JA
+            </a>
             <div className="flex space-x-4">
               {/* Placeholder for social icons */}
                <a href="https://web.facebook.com/profile.php?id=100063675663603">
