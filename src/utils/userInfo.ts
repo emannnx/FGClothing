@@ -5,6 +5,21 @@ import image4 from '../assets/image4.jpg';
 import image5 from '../assets/image5.jpg';
 import image6 from '../assets/image6.jpg';
 import image7 from '../assets/image7.jpg';
+import image8 from '../assets/image8.jpg';
+import image9 from '../assets/image9.jpg';
+import image10 from '../assets/image10.jpg';
+import image11 from '../assets/image11.jpg';
+import image12 from '../assets/image12.jpg';
+import image13 from '../assets/image13.jpg';
+import image14 from '../assets/image14.jpg';
+import image15 from '../assets/image15.jpg';
+import image16 from '../assets/image16.jpg';
+import image17 from '../assets/image17.jpg';
+import image18 from '../assets/image18.jpg';
+import image19 from '../assets/image19.jpg';
+import image20 from '../assets/image20.jpg';
+
+
 
 interface cloth {
     id :number;
@@ -55,5 +70,83 @@ export const cloth_data : cloth[] = [
       title: "Accessories",
       description: "Complete your look",
       image: image7
+    },
+    {
+      id: 8,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image8
+    },
+    {
+      id: 9,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image9
+    },
+    {
+      id: 10,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image10
+    },
+    {
+      id: 11,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image11
+    },
+    {
+      id: 12,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image12
+    },
+    {
+      id: 13,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image13
+    },
+    {
+      id: 14,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image14
+    },
+    {
+      id: 15,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image15
+    },
+    {
+      id: 16,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image16
+    },
+    {
+      id: 17,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image17
+    },
+    {
+      id: 18,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image18
+    },
+    {
+      id: 19,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image19
+    },
+    {
+      id: 20,
+      title: "Accessories",
+      description: "Complete your look",
+      image: image20
     }
   ];
