@@ -35,8 +35,10 @@ const Lookbook = () => {
                  <Link to={`/ImageOpen/${item.id}`}>
                    <LookbookItem 
                     image={item.image}
+                    video={item.video}
                     title={item.title}
                     description={item.description}
+
                   /> 
                  </Link>
                 </div>

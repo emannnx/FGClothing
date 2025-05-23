@@ -27,6 +27,8 @@ import image26 from '../assets/image26.jpg';
 import image27 from '../assets/image27.jpg';
 import image28 from '../assets/image28.jpg';
 import image29 from '../assets/image29.jpg';
+import BgVideo from '../assets/BgVIdeo.mp4';
+import Video1 from '../assets/Video1.mp4'
 
 
 
@@ -34,7 +36,8 @@ interface cloth {
     id :number;
     title: string;
     description: string;
-    image :any
+    image :any;
+    video: any;
 }
 
 export const cloth_data : cloth[] = [
@@ -42,174 +45,217 @@ export const cloth_data : cloth[] = [
       id: 1,
       title: "Summer Collection",
       description: "Light fabrics for warm days",
-      image: image1
+      image: image1,
+      video: null
     },
     {
       id: 2,
       title: "Business Casual",
       description: "Office wear with style",
-      image: image2
+      image: image2,
+      video: null
     },
     {
       id: 3,
       title: "Formal Wear",
       description: "Classic elegance for special occasions",
-      image: image3
+      image: image3,
+      video: null
     },
     {
       id: 4,
       title: "Street Style",
       description: "Urban fashion for everyday",
-      image: image4
+      image: image4,
+      video: null
     },
     {
       id: 5,
       title: "Winter Collection",
       description: "Warm layers for the cold season",
-      image: image5
+      image: image5,
+      video: null
     },
     {
       id: 6,
       title: "Accessories",
       description: "Complete your look",
-      image: image6
+      image: image6,
+      video: null
     },
     {
       id: 7,
       title: "Accessories",
       description: "Complete your look",
-      image: image7
+      image: image7,
+      video: null
     },
     {
       id: 8,
       title: "Accessories",
       description: "Complete your look",
-      image: image8
+      image: image8,
+      video: null
     },
     {
       id: 9,
       title: "Accessories",
       description: "Complete your look",
-      image: image9
+      image: image9,
+      video: null
     },
     {
       id: 10,
       title: "Accessories",
       description: "Complete your look",
-      image: image10
+      image: image10,
+      video: null
     },
     {
       id: 11,
       title: "Accessories",
       description: "Complete your look",
-      image: image11
+      image: image11,
+      video: null
     },
     {
       id: 12,
       title: "Accessories",
       description: "Complete your look",
-      image: image12
+      image: image12,
+      video: null
     },
     {
       id: 13,
       title: "Accessories",
       description: "Complete your look",
-      image: image13
+      image: image13,
+      video: null
     },
     {
       id: 14,
       title: "Accessories",
       description: "Complete your look",
-      image: image14
+      image: image14,
+      video: null
     },
     {
       id: 15,
       title: "Accessories",
       description: "Complete your look",
-      image: image15
+      image: image15,
+      video: null
     },
     {
       id: 16,
       title: "Accessories",
       description: "Complete your look",
-      image: image16
+      image: image16,
+      video: null
     },
     {
       id: 17,
       title: "Accessories",
       description: "Complete your look",
-      image: image17
+      image: image17,
+      video: null
     },
     {
       id: 18,
       title: "Accessories",
       description: "Complete your look",
-      image: image18
+      image: image18,
+      video: null
     },
     {
       id: 19,
       title: "Accessories",
       description: "Complete your look",
-      image: image19
+      image: image19,
+      video: null
     },
     {
       id: 20,
       title: "Accessories",
       description: "Complete your look",
-      image: image20
+      image: image20,
+      video: null
     },
     {
       id: 21,
       title: "Accessories",
       description: "Complete your look",
-      image: image21
+      image: image21,
+      video: null
     },
     {
       id: 22,
       title: "Accessories",
       description: "Complete your look",
-      image: image22
+      image: image22,
+      video: null
     },
     {
       id: 23,
       title: "Accessories",
       description: "Complete your look",
-      image: image23
+      image: image23,
+      video: null
     },
     {
       id: 24,
       title: "Accessories",
       description: "Complete your look",
-      image: image24
+      image: image24,
+      video: null
     },
     {
       id: 25,
       title: "Accessories",
       description: "Complete your look",
-      image: image25
+      image: image25,
+      video: null
     },
     {
       id: 26,
       title: "Accessories",
       description: "Complete your look",
-      image: image26
+      image: image26,
+      video: null
     },
     {
       id: 27,
       title: "Accessories",
       description: "Complete your look",
-      image: image27
+      image: image27,
+      video: null
     },
     {
       id: 28,
       title: "Accessories",
       description: "Complete your look",
-      image: image28
+      image: image28,
+      video: null
     },
     {
       id: 29,
       title: "Accessories",
       description: "Complete your look",
-      image: image29
+      image: image29,
+      video: null
+    },
+    {
+      id: 30,
+      title: "Accessories",
+      description: "Complete your look",
+      image: null,
+      video: BgVideo,
+    },
+    {
+      id: 31,
+      title: "Accessories",
+      description: "Complete your look",
+      image: null,
+      video: Video1,
     }
   ];
